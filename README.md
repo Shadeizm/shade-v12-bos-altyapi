@@ -1,2 +1,1 @@
-# discord-v12-bo-altyap-
-Altyapı Benimdir Alınması Yasaktır
+ <a href="https://discord.js.org"><img src="https://discord.js.org/static/logo.svg" width="546" alt="discord.js" /></a>
