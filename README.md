@@ -2,3 +2,5 @@
  
  
 ## Merhaba Ben Shâde,Bu Gün İstek Üzerine Discord V12 Boş Altyapı Yaptım.İyi Kullanımlar
+
+## Not : ALTYAPIDA LİSANS VARDIR ÇALINAMAZ ALINTI YAPILAMAZ VEYA BENİM DİYE SUNULAMAZ!
